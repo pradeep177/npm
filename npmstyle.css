@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;700;800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 10px;
+    background: white
+}
+
+.button {
+    font-size: 30px;
+
+}
+
+.button1 li {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.search {
+    font-size: 30px;
+}
+
+.nav1 ul {
+    background: black;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    /*align-items: center;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav21 {
+    color: black;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    /* margin-right: 10px;*/
+    padding: 10px 2em 15px 5px;
+    justify-content: space-between;
+
+}
+
+.nav21 ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-indent: 2em;
+    list-style: none;
+}
+
+#nav22 {
+    color: black;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    word-spacing: 10px;
+    padding: 0px 10px;
+    align-items: center;
+    text-indent: 2em;
+}
+
+.search {
+    top: 500px;
+    left: 700px;
+
+}
+
+.nav3 ul {
+    color: black;
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    margin-top: 1.3rem;
+    margin-bottom: 1.3rem;
+
+}
+
+.home1 {
+    background: orange;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    flex-wrap: wrap;
+}
+
+.home1 div h1 {
+    /*flex-direction: column;*/
+    align-items: center;
+    padding-left: 310px;
+    font-size: 100px;
+}
+
+.home2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.home3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: orangered;
+}
+
+.home4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.home4 h3 {
+    font-size: 50px;
+    display: flex;
+    padding-left: 300px;
+    padding-right: 150px;
+    font-size: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.home3 h3 {
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.home3 p {
+    display: flex;
+    align-items: center;
+    padding-left: 230px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+    font-size: 20px;
+    color: white;
+}
+
+.home2 h3 {
+    font-size: 50px;
+    display: flex;
+    padding-left: 300px;
+    padding-right: 150px;
+    font-size: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+.home2 p {
+    display: flex;
+    align-items: center;
+    padding-left: 230px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+    font-size: 20px;
+}
+
+#things {
+    display: flex;
+    align-items: center;
+    padding-left: 460px;
+    font-size: 100px;
+    padding-bottom: 50px;
+}
+
+#we {
+    display: flex;
+    align-items: center;
+    padding-left: 230px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+
+#take {
+    display: flex;
+    padding-left: 350px;
+    font-size: 50px;
+    /* padding-right: 150px;*/
+    text-align: center;
+}
+
+#get {
+    display: fl20;
+    padding-left: 300px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.support {
+    font-size: 20px;
+}
+
+.company {
+    font-size: 20px;
+}
+
+.tandp {
+    font-size: 20px;
+}
+
+.support ul li {
+    font-size: 20px;
+}
+
+.company ul li {
+    font-size: 20px;
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+.tandp ul {
+    font-size: 20px;
+}
